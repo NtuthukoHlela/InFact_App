@@ -3,7 +3,7 @@
 ##  Effective Date: 11/03/2023
 
 ### Description
-Welcome to inFact, an app developed by Ntuthuko Hlela. The mission is to provide you with captivating facts, amusing jokes, and thought-provoking questions with a simple tap. All the facts, questions, and jokes are sourced from various Large Language Models. 
+Welcome to inFact, an app developed by Ntuthuko Hlela. The mission is to provide you with captivating facts, amusing jokes, and thought-provoking questions with a simple tap. All the facts, questions, and jokes are sourced from various Large Language Models. In simple terms, they are not unique to this application.
 
 ### Data Collection
 •	The app does not collect personally identifiable information (PII). 
