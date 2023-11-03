@@ -15,4 +15,4 @@ Welcome to inFact, an app developed by Ntuthuko Hlela. The mission is to provide
 This Privacy Policy may be updated from time to time. Any changes are effective immediately upon posting the revised policy within the app. Note, you will be informed whenever there are changes to the policy. Continued use of inFact after such changes signifies acceptance of the revised Privacy Policy.
 
 ### Contact Information
-If you have any questions or concerns about this Privacy Policy or data practices, please contact Ntuthuko Hlela at infact043@gmail.com
+If you have any questions or concerns about these Privacy Policy or data practices, please contact Ntuthuko Hlela at infact043@gmail.com
